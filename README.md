@@ -95,5 +95,5 @@ pm2 start npm --name "my-app" -- start
 host="your aws rds endpont"
 user="username set while creatingmysql db "
 password="youpassword"
-database="databasenamegoeshere"
+database="databasenamegoeshere "
 
